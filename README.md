@@ -1,5 +1,5 @@
 # Battleship-AI
-Battleship game with probalistic learning
+Battleship game with probalistic learning 
 
 ## Introduction
 Battleship is a two-player grid-based game. Both players have ships of different sizes and have them concealed from the other player. They have to guess the position of the opponent's ships and attack. The playes get alternative turns. The winner is the one that destroys all the shipsof other one first. 
